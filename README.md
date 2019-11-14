@@ -1,2 +1,2 @@
 # workshops
-track of all records.
+track of all workshops.
