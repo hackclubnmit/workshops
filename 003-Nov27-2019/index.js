@@ -11,7 +11,7 @@ function loadDate() {
 function loadWeather() {
   var weather = $("#weather");
   var url = "https://api.forecast.io/forecast/";
-  var apiKey = "9aa3549b0118020c9eaef42e79d09af6";
+  var apiKey = "";
 
   function success(position) {
     var latitude = position.coords.latitude;
@@ -34,7 +34,7 @@ function loadWeather() {
 function loadNews() {
   var news = $("#news");
   var url = "https://newsapi.org/v1/articles?source=google-news&sortBy=top&apiKey=";
-  var apiKey = "d9903836bbca401a856602f403802521";
+  var apiKey = "";
 
   $.getJSON(url + apiKey, function(data) {
     var titles = data.articles.map(function(articles) {
