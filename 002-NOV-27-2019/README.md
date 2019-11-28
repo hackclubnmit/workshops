@@ -23,5 +23,25 @@ Go to settings in the respective repository scroll down for github pages option.
 For cutomized repository You will have to follow these steps:
 	1.Go to HTML5 Link:https://html5up.net/
 	2.Download the template you are interested in 
-	3.Now extract the files and open the entire files in your favorite 
-	4.
+	3.Now extract the files and open the Eentire files in your favorite code editor.
+	4.Hopping you know html and css- Now coustomize the common fields out in these templpate as your liking.
+	5.Once done push the code to your done with all the changes.
+	6.Now you can follow the above mentioned steps mentioned above.
+	
+	Login to namechaep from github with the following link:https://education.github.com/pack/offers
+	Register yourself providing required information and login 
+	Once your registered you can search your domain name
+	(PLease note that you can get only one domain of .me for a period of one year later you will have to pay some extra amount
+	So please be careful when you select your domain.)
+	
+	Once you complete and get your free domain go to the dashboard option on your account option.
+	You can then manage the domain that you have purchased now	:
+	1.Go to ->manage -> advance DNS option
+	2.Add the CNAME with your githubusername.<repository_name>
+	That it you have told you namecheap about github -- Now tell github about namecheap
+	3. Go to your reopsitory and add a file named->CNAME 
+	content inside this should be :www.<Your domain name>.me
+	4.Now go to settings in repo-> Githhub sites 
+	You will see that your domain name having portfolio website.
+	
+	Have great time and enjoy coding..!!!!!!!!!!
