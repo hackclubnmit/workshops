@@ -10,7 +10,7 @@ from discord.ext.commands import Bot
 # <------>
 
 #Place your bot token here
-TOKEN = 'NTQ1NjM1NzgxNjgzOTcwMDQ4.XkkQ2g.cpmI-G7axPxnXqpuHLN0oDvZ-yY'
+TOKEN = ''
 
 client = discord.Client()
 
