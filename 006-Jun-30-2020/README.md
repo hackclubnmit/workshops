@@ -4,6 +4,8 @@
 
 ### **[Presentation Link](https://slides.com/yashjaiswal-1/deck/fullscreen)** (use spacebar to navigate)
 
+[free-for-devs](https://free-for.dev/#/) (This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers) 
+
 [design-resources-for-devs](https://github.com/yashjaiswal1/design-resources-for-developers#css-Animations) (GitHub repo for all things frontend)
 
 [Admin Dashboard Template - Shards](https://designrevision.com/downloads/shards-dashboard-lite/) (include an admin dashboard in your project quickly)
