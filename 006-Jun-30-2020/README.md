@@ -31,3 +31,14 @@
 [Google Cloud Vision AI](https://cloud.google.com/vision#tab4) (for all your Computer Vision needs)
 
 [News API](https://newsapi.org/docs/get-started) (access news from reliable international sources that gets updated every 24 hours)
+
+
+# **Resources for Swarm**
+
+## ""Session Instructor:** Abhishek Kedia
+
+[swarm-installation guide](https://swarm-guide.readthedocs.io/en/latest/node_operator.html#installing-swarm-from-source)
+
+[swarm docs](https://swarm-guide.readthedocs.io/en/latest/introduction.html)
+
+##### The presentation is attached by the file name "swarm.pdf"
