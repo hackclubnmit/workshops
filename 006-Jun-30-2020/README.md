@@ -35,7 +35,7 @@
 
 # **Resources for Swarm**
 
-## ""Session Instructor:** Abhishek Kedia
+## **Session Instructor:** Abhishek Kedia
 
 [swarm-installation guide](https://swarm-guide.readthedocs.io/en/latest/node_operator.html#installing-swarm-from-source)
 
