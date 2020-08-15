@@ -1,0 +1,6 @@
+
+#!/bin/bash
+#
+# Usage: `weather CITYNAME` or just `weather` to use your auto configure based on your IP.
+
+curl http://wttr.in/$1
