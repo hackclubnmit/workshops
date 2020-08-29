@@ -1,4 +1,7 @@
+# Github Basics
+
 1.) Clone the first static webpage files: index.html and style.css
+
 2.) Now here you can edit the files as you require.
 
 Some noteworthy tags are as follow:
