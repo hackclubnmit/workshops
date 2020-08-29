@@ -23,4 +23,4 @@ Index of all workshops done:
 |006-Jun-30-2020| [Primer on hackathons](https://github.com/HackClub-NMIT/workshops/tree/master/006-Jun-30-2020)|Yash Jaiswal|
 |007-Aug-15-2020| [Linux Basics](https://github.com/HackClub-NMIT/workshops/tree/master/007-Aug-15-2020)|Sagar Mohan|
 |008-Aug-23-2020| [Creating the best portfolio site using DigitalOcean](https://github.com/HackClub-NMIT/workshops/tree/master/008-Aug-23-2020)|Aditya Vijaykumar|
-|009-Aug-29-2020| [Intro the Blender - Create a cool sword!](https://github.com/HackClub-NMIT/workshops/tree/master/009-Aug-29-2020)|Aniruddha Sil|
+|009-Aug-29-2020| [Intro to Blender - Create a cool sword!](https://github.com/HackClub-NMIT/workshops/tree/master/009-Aug-29-2020)|Aniruddha Sil|
