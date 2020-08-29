@@ -15,9 +15,9 @@ If you have any questions, please [join us on the Discord](https://discord.gg/gp
 Index of all workshops conducted:
 |Workshop ID| Link | Host|
 |-------------| ------------- | ------------- |
-|001-NOV-12-2019| [Introduction to github](https://github.com/HackClub-NMIT/workshops/tree/master/001-NOV-12-2019) |Anurag Singh|
-|002-NOV-27-2019| [Build and deploy a simple portfolio site](https://github.com/HackClub-NMIT/workshops/tree/master/002-NOV-27-2019) | Dheemanth Gowda|
-|003-NOV-27-2019| [Dashboard to display news and weather using APIs](https://github.com/HackClub-NMIT/workshops/tree/master/003-NOV-27-2019)| Abhishek Kedia|
+|001-Nov-12-2019| [Introduction to github](https://github.com/HackClub-NMIT/workshops/tree/master/001-NOV-12-2019) |Anurag Singh|
+|002-Nov-27-2019| [Build and deploy a simple portfolio site](https://github.com/HackClub-NMIT/workshops/tree/master/002-NOV-27-2019) | Dheemanth Gowda|
+|003-Nov-27-2019| [Dashboard to display news and weather using APIs](https://github.com/HackClub-NMIT/workshops/tree/master/003-NOV-27-2019)| Abhishek Kedia|
 |004-Feb-17-2020| [Making a discord bot with python](https://github.com/HackClub-NMIT/workshops/tree/master/004-Feb-17-2020) | Sagar Mohan|
 |005-Feb-29-2020| [MLH workshop - Basics of python](https://github.com/HackClub-NMIT/workshops/tree/master/005-Feb-29-2020)|Hackclub NMIT|
 |006-Jun-30-2020| [Primer on hackathons](https://github.com/HackClub-NMIT/workshops/tree/master/006-Jun-30-2020)|Yash Jaiswal|
