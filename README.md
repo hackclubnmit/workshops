@@ -8,3 +8,11 @@ To access our Workshops/Webinars/AMAs recorded sessions, visit our [Youtube chan
 README.md must be written in the Markdown syntax. We recommend [this cheatsheet](https://commonmark.org/help/) for getting started with Markdown.
 
 If you have any questions, please [join us on the Discord](https://discord.gg/gpkg9zW)  and we'll be more than happy to give you a hand 😄.
+
+
+## Workshops Index
+
+| Workshop ID                       | Link                                                       |
+| ----------------------------- | ---------------------------------------------------------- |
+| 001-NOV-12-2019               |[Basics of Git and GitHub](https://github.com/HackClub-NMIT/workshops/tree/master/001-NOV-12-2019)|
+| 002-NOV-27-2019               |[Create your Portfolio Site](https://github.com/HackClub-NMIT/workshops/tree/master/002-NOV-27-2019)|
