@@ -1,3 +1,5 @@
+# Create a simple portfolio site using Namecheap
+
 1.) Clone the first static webpage files:- Index.html  and  style.css
 2.) Now here you can edit the files as you require.
 
@@ -31,7 +33,7 @@ Commands:- git clone "<URL OF GITHUB>"
 	- Once done push the code to your done with all the changes.
 	- Now you can follow the above mentioned steps mentioned above.
 	
-	Login to namechaep from github with the following link:https://education.github.com/pack/offers
+	Login to namecheap from github with the following link:https://education.github.com/pack/offers
 	Register yourself providing required information and login 
 	Once your registered you can search your domain name
 	(PLease note that you can get only one domain of .me for a period of one year later you will have to pay some extra amount
