@@ -12,7 +12,7 @@ If you have any questions, please [join us on the Discord](https://discord.gg/gp
 
 ## Workshops Index
 
-Index of all workshops done:
+Index of all workshops conducted:
 |Workshop ID| Link | Host|
 |-------------| ------------- | ------------- |
 |001-NOV-12-2019| [Introduction to github](https://github.com/HackClub-NMIT/workshops/tree/master/001-NOV-12-2019) |Anurag Singh|
