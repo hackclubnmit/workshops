@@ -18,13 +18,13 @@ Commands:- git clone "<URL OF GITHUB>"
 ```
 3.) Go to settings in the respective repository scroll down for github pages option.
 - Make the hosting branch from Master 
-- Now you can see there is a link that states that your page is being published at: <Link>
+- Now you can see there is a link that states that your page is being published at
 - Note that this process might take some time (3-4 min at max).
 - You will have a link that will guide you to the page having content that you have added in your repository.
 
 
 4.) For cutomized repository You will have to follow these steps:
-- Go to HTML5 Link:https://html5up.net/
+- Go to HTML5 Link: https://html5up.net/
 - Download the template you are interested in 
 - Now extract the files and open the Eentire files in your favorite code editor.
 - Hopping you know html and css- Now coustomize the common fields out in these templpate as your liking.
@@ -37,8 +37,8 @@ Commands:- git clone "<URL OF GITHUB>"
 
 Once you complete and get your free domain go to the dashboard option on your account option. You can then manage the domain that you have purchased now	:
 - Go to ->manage -> advance DNS option
-- Add the CNAME with your githubusername.<repository_name> That it you have told you namecheap about github -- Now tell github about namecheap
-- Go to your reopsitory and add a file named->CNAME content inside this should be: www.<Your domain name>.me
+- Add the CNAME with your githubusername.<repository_name> That it you have told you namecheap about github - Now tell github about namecheap
+- Go to your reopsitory and add a file named->CNAME content inside this should be: www.Your-domain-name.me
 - Now go to settings in repo-> GitHub sites You will see that your domain name having portfolio website.
 	
 Have great time and enjoy coding..!!!!!!!!!!
