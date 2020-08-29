@@ -19,7 +19,7 @@ Index of all workshops conducted:
 |002-NOV-27-2019| [Build and deploy a simple portfolio site](https://github.com/HackClub-NMIT/workshops/tree/master/002-NOV-27-2019) | Dheemanth Gowda|
 |003-NOV-27-2019| [Dashboard to display news and weather using APIs](https://github.com/HackClub-NMIT/workshops/tree/master/003-NOV-27-2019)| Abhishek Kedia|
 |004-Feb-17-2020| [Making a discord bot with python](https://github.com/HackClub-NMIT/workshops/tree/master/004-Feb-17-2020) | Sagar Mohan|
-|005-Feb-29-2020| [MLH Localhost workshop - Intro to Python Skills for AI](https://github.com/HackClub-NMIT/workshops/tree/master/005-Feb-29-2020)|Anurag Singh|
+|005-Feb-29-2020| [MLH Localhost workshop - Intro to Python Skills for AI](https://github.com/HackClub-NMIT/workshops/tree/master/005-Feb-29-2020)|[Anurag Singh](https://github.com/ashleymavericks)|
 |006-Jun-30-2020| [Primer on Hackathons & Swarm: Decentralised Storage](https://github.com/HackClub-NMIT/workshops/tree/master/006-Jun-30-2020)|Yash Jaiswal|
 |007-Aug-15-2020| [Linux Basics with some shell scripting!](https://github.com/HackClub-NMIT/workshops/tree/master/007-Aug-15-2020)|Sagar Mohan|
 |008-Aug-23-2020| [Creating the best portfolio site using DigitalOcean](https://github.com/HackClub-NMIT/workshops/tree/master/008-Aug-23-2020)|Aditya Vijaykumar|
