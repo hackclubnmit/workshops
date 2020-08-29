@@ -15,4 +15,4 @@ If you have any questions, please [join us on the Discord](https://discord.gg/gp
 | Workshop ID                       | Link                                                       |
 | ----------------------------- | ---------------------------------------------------------- |
 | 001-NOV-12-2019               |[Basics of Git and GitHub](https://github.com/HackClub-NMIT/workshops/tree/master/001-NOV-12-2019)|
-| 002-NOV-27-2019               |[Create your Portfolio Site](https://github.com/HackClub-NMIT/workshops/tree/master/002-NOV-27-2019)|
+| 002-NOV-27-2019               |[Build and Deploy your Portfolio Site](https://github.com/HackClub-NMIT/workshops/tree/master/002-NOV-27-2019)|
