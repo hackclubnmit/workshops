@@ -1,3 +1,4 @@
+## Conversational Bot using Discord.js + Dialogflow API
 A workshop introducing javascript to build discord bots using discord.js and integrating the bot using Google's Dialogflow API to make it work like a chatbot.
 
 ### Pre-requisites:
