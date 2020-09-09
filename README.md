@@ -24,3 +24,4 @@ Index of all workshops conducted:
 |007-Aug-15-2020| [Linux Basics with some shell scripting!](https://github.com/hackclubnmit/workshops/tree/master/007-Aug-15-2020)|Sagar Mohan|
 |008-Aug-23-2020| [Creating the best portfolio site using DigitalOcean](https://github.com/hackclubnmit/workshops/tree/master/008-Aug-23-2020)|[Aditya Vijaykumar](https://github.com/aditya-vijaykumar)|
 |009-Aug-29-2020| [Intro to Blender - Create a cool sword!](https://github.com/hackclubnmit/workshops/tree/master/009-Aug-29-2020)|Aniruddha Sil|
+|010-Sep-13-2020| [Conversational Bot using Discord.js + Dialogflow API](https://github.com/hackclubnmit/workshops/tree/master/010-Sep-13-2020)|[Kaushal](https://github.com/k4u5h4L)|
