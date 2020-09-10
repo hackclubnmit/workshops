@@ -400,7 +400,7 @@ Facebook: [https://fb.me/hackclubnmit](https://fb.me/hackclubnmit)
 
 LinkedIn: [https://www.linkedin.com/company/hackclubnmit](https://www.linkedin.com/company/hackclubnmit)
 
-Github: [https://github.com/HackClub-NMIT](https://github.com/HackClub-NMIT)
+Github: [https://github.com/HackClubNMIT](https://github.com/HackClubNMIT)
 
 Youtube: [https://www.youtube.com/channel/UCMcJ0_61s_G1UvPbVPs2edw](https://www.youtube.com/channel/UCMcJ0_61s_G1UvPbVPs2edw)
 
