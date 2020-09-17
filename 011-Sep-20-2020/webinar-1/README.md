@@ -68,6 +68,8 @@ mesh is an reference variable here, not the mesh as mentioned above
 - Additionally gives shader, camera controls , etc
 
 
+[Game](https://2yqpv.csb.app/)
+
 ### Installation
 
 React App [Install](https://create-react-app.dev/docs/getting-started/) 
