@@ -5,6 +5,8 @@ For more info refer to [three js docs](https://threejs.org/docs/)
 > - State : The state object is where you store property values that belongs to the component. When the state object changes, the component re-renders.
 >- Hooks : It allows you to use state and other React features without writing a class. Hooks are the functions which "hook into" React state and lifecycle features from function components.
 >- Props : React allows us to pass information to a Component using something called props (stands for properties). Props are basically kind of global variable or object. 
+
+
 #### Canvas
 
   - Your go to for three js, renders three js elements 
@@ -18,6 +20,10 @@ For more info refer to [three js docs](https://threejs.org/docs/)
 
 #### Mesh
 Class of tringular polygonal objects
+
+
+#### Viewport 
+[view](https://www.figma.com/file/wzsdKPzumZNExJQaIcceyn/workshop?node-id=0%3A1)
 
 #### Buffergeometry
 An efficient way to present lines, mesh, position, face vertex within buffer. It doesnt heavy loads GPU
