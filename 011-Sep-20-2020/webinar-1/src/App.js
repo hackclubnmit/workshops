@@ -12,7 +12,7 @@ import { useSpring, a } from "react-spring/three";
 // soft Shadows
 softShadows();
 
-const SpinningMesh = ({ position, color, speed, args }) => {
+const Box = ({ position, color, speed, args }) => {
   //ref to target the mesh
   const mesh = useRef();
 
@@ -45,6 +45,7 @@ const SpinningMesh = ({ position, color, speed, args }) => {
         attach="material"
         factor={0.6}
       />
+          {/* <meshstandardmaterial  attach="geometry" args={args} /> */}
     </a.mesh>
 
     //Using Drei box if you want
@@ -96,7 +97,7 @@ const App = () => {
             <planeBufferGeometry attach="geometry" args={[100, 100]} />
             <shadowMaterial attach="material" opacity={0.5} />
           </mesh>
-          <SpinningMesh
+          <Box
             color="grey"
             position={[0, 1, 0]}
             args={[3, 2, 1]}
