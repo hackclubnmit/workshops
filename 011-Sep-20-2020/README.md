@@ -103,7 +103,7 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 $ npx create-react-app ProjectName
-$ yarn add three react-three-fiber react-spring sass drei
+$ yarn add three react-three-fiber react-spring sass drei use-cannon
 $ yarn start
 ```
 
