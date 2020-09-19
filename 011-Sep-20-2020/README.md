@@ -58,9 +58,18 @@ Appearance of Object, it is renderer independent.
 It is hook which callback after every frame, used for effects , controls, postprocessing. It is a render loop in which you can use internal state as well.
 **Important**: Never use in your Main canvas component or else it'll go into an infite callback loop
 **Example :**
-
+```sh 
+const mesh = useRef(); 
+```
 ```sh
 useFrame(() => (mesh.current.rotation.x = mesh.current.rotation.y += 0.03));
+mesh is an reference variable here, not the mesh as mentioned above
+```
+```sh
+const { clock } = useThree();
+useFrame(() => {
+    mesh.current.position.x = Math.sin(clock.getElapsedTime());
+  });
 mesh is an reference variable here, not the mesh as mentioned above
 ```
 
@@ -69,6 +78,7 @@ mesh is an reference variable here, not the mesh as mentioned above
 - castShadow
 - recieveShadow
 - MapShadow
+
   > shadow-mapSize-width={1024}
   > shadow-mapSize-height={1024}
   > shadow-camera-far={50}
