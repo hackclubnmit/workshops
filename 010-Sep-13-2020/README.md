@@ -355,4 +355,4 @@ I will leave all reference links below so that it will be easy for you to find i
 
 - To those of you people who felt difficult following this workshop, we got your back! We have an extensive youtube video covering topics from the beginning to the very end. So just head on over there if you're confused!<br><br>
 
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/FwIi2Z-7fmI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FwIi2Z-7fmI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
