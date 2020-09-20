@@ -5,6 +5,8 @@ Here's the [final code](https://repl.it/@k4u5h4L/discord-chatbot-complete).
 
 The workshop should take about 30-40 minutes.
 
+The video tutorial for this workshop is linked at the bottom of this workshop with the required links for documentation and resources.
+
 ## Part 1: Getting API keys!
 
 ### Setting up the Discord bot
@@ -17,20 +19,20 @@ Keep this page open for a while, as we may be taking some stuff from here...
 
 Go ahead and give it a cool name! I'm going to name it as doodle-noddle, but you can name it whatever you want!
 
-![new app](https://cloud-9x2pb85rb.vercel.app/screenshot2.png)
+![fill name](https://cloud-9x2pb85rb.vercel.app/screenshot2.png)
 
 Then go ahead and create the application.
 Now go to the bot section in the menu on the left hand side, and add a new bot.
 
-![new app](https://cloud-9x2pb85rb.vercel.app/screenshot3.png)
+![add bot](https://cloud-9x2pb85rb.vercel.app/screenshot3.png)
 
 If you get any formation like this, click on "yes, do it".
 
-![new app](https://cloud-9x2pb85rb.vercel.app/screenshot4.png)
+![confirm bot](https://cloud-9x2pb85rb.vercel.app/screenshot4.png)
 
 Now you should be greeted with this screen. If you successfully get this, then you're good!
 
-![new app](https://cloud-9x2pb85rb.vercel.app/screenshot5.png)
+![bot done](https://cloud-9x2pb85rb.vercel.app/screenshot5.png)
 
 <!-- Insert a celebration gif here --->
 
@@ -57,7 +59,7 @@ You will have to tick these permissions below:
 
 Now your screen should look something like this:
 
-![new app](https://cloud-9x2pb85rb.vercel.app/screenshot6.png)
+![bot permissions](https://cloud-9x2pb85rb.vercel.app/screenshot6.png)
 
 Now, we need to go back to the discord dev page to get the `CLIENT ID` of your application.
 
@@ -72,7 +74,7 @@ Whew, that's a lot of information. But don't stop just yet, we are on our way!
 <!-- Insert a "whew" gif here --->
 <br>
 <p align="center">
-<img alt="celebration" width="600" src="https://media.giphy.com/media/JMV7IKoqzxlrW/giphy.gif" />
+<img alt="whew" width="600" src="https://media.giphy.com/media/JMV7IKoqzxlrW/giphy.gif" />
 </p>
 
 ### Setting up the Dialogflow agent
@@ -83,34 +85,34 @@ Sounds exciting? Follow me to set this up too!
 
 Visit the [Dialogflow console](https://dialogflow.cloud.google.com/) to set up the agent. Remember, you need to have a google account to be able to login.
 
-![](https://cloud-9x2pb85rb.vercel.app/screenshot7.png)
+![dialogflow console](https://cloud-9x2pb85rb.vercel.app/screenshot7.png)
 
 Now you will have to click on this drop down menu, and create a new agent. Go ahead and name it whatever you want.
 I'll call mine as doodle-noodle-agent!
 
-![](https://cloud-9x2pb85rb.vercel.app/screenshot8.png)
+![name agent](https://cloud-9x2pb85rb.vercel.app/screenshot8.png)
 
 Now hit the Create button and wait for a few seconds for the agent to be created.
 
 After a while, you will be greeted with this screen.
 
-![](https://cloud-9x2pb85rb.vercel.app/screenshot9.png)
+![create bot](https://cloud-9x2pb85rb.vercel.app/screenshot9.png)
 
 Now click on the "Small Talk" tab on the menu on the left side, and go ahead and enable the small talk toggle. This is essential if you want your bot to be able to converse with you.
 
-![](https://cloud-9x2pb85rb.vercel.app/screenshot10.png)
+![small talk](https://cloud-9x2pb85rb.vercel.app/screenshot10.png)
 
 Now, we need to get API keys from dialogflow just like how we did it with Discord. For this, click on the gear icon beside your agent name. This will take you to the settings pannel of agent.
 
-![](https://cloud-cl244cmpv.vercel.app/screenshot11.png)
+![agent settings](https://cloud-cl244cmpv.vercel.app/screenshot11.png)
 
 Here, click on the link for the "Service Account" and open it in a new tab.
 
-![](https://cloud-cl244cmpv.vercel.app/screenshot12.png)
+![GCP service account](https://cloud-cl244cmpv.vercel.app/screenshot12.png)
 
 Here, click on your service account down there.
 
-![](https://cloud-cl244cmpv.vercel.app/screenshot13.png)
+![add key](https://cloud-cl244cmpv.vercel.app/screenshot13.png)
 
 Now, click on "Add Key" and create a new key in JSON format.
 This should automatically get downloaded for you to your local system.
@@ -123,7 +125,7 @@ Now that you have come so far, give yourself a pat on your back, because we are 
 <br>
 
 <p align="center">
-<img alt="celebration" width="600" src="https://media.giphy.com/media/9Q249Qsl5cfLi/giphy.gif" />
+<img alt="pat on back" width="600" src="https://media.giphy.com/media/9Q249Qsl5cfLi/giphy.gif" />
 </p>
 
 ## Part 2: Start coding the bot!
@@ -267,7 +269,7 @@ So what's happening here?
 <br>
 
 <p align="center">
-<img alt="celebration" width="600" src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" />
+<img alt="thinking" width="600" src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" />
 </p>
 
 Let me tell you!
@@ -309,7 +311,7 @@ It's all coming together now eh?
 <br>
 
 <p align="center">
-<img alt="celebration" width="600" src="https://media.giphy.com/media/KFszZKN9kP8UJk7BlS/giphy.gif" />
+<img alt="coming together" width="600" src="https://media.giphy.com/media/KFszZKN9kP8UJk7BlS/giphy.gif" />
 </p>
 
 ## To try it out!
@@ -322,14 +324,14 @@ Now, try sending a message in the server.
 
 This is what I received from the bot when i tried to talk with it
 
-![](https://cloud-cl244cmpv.vercel.app/screenshot14.png)
+![bot texting](https://cloud-cl244cmpv.vercel.app/screenshot14.png)
 
 <!-- insert complete gif -->
 
 <br><br>
 
 <p align="center">
-<img alt="celebration" width="600" src="https://media.giphy.com/media/Q5RiiXiUWWVjvE3rER/giphy.gif" />
+<img alt="done!!" width="600" src="https://media.giphy.com/media/Q5RiiXiUWWVjvE3rER/giphy.gif" />
 </p>
 
 It's awesome isn't it? You can now talk with your virtual agent you created in this workshop!
@@ -350,3 +352,7 @@ I will leave all reference links below so that it will be easy for you to find i
 ## Note:
 
 - If I may have disclosed any API keys in this workshop, please don't use the same keys since I have already revoked them and they don't work anymore. You have to visit those sites and get registered to get your hands on these keys.
+
+- To those of you people who felt difficult following this workshop, we got your back! We have an extensive youtube video covering topics from the beginning to the very end. So just head on over there if you're confused!<br><br>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/FwIi2Z-7fmI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
