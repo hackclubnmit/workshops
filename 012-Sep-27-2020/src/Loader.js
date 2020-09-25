@@ -3,6 +3,8 @@ import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 import { Canvas, extend, useThree, useFrame } from "react-three-fiber";
+import { OrbitControls, HTML } from "drei";
+
 
 extend({ OrbitControls });
 
