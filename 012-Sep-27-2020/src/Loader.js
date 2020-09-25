@@ -38,7 +38,7 @@ function App() {
     <>
       {isBrowser && (
         <Canvas
-          camera={{ position: [0, 0, 25] }}
+          camera={{ position: [0, 0, 25], fov: 20 }}
           onCreated={({ gl }) => {
             gl.shadowMap.enabled = true;
             gl.shadowMap.type = THREE.PCFSoftShadowMap;
