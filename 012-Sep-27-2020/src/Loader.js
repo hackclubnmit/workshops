@@ -48,6 +48,8 @@ function App() {
 
           <Controls />
           <Logo />
+        {/* <OrbitControls autoRotate autoRotateSpeed={15} /> */}
+
         </Canvas>
       )}
     </>
