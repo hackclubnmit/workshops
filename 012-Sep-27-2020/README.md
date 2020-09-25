@@ -1,6 +1,17 @@
 # Documentation 
 
 For more info refer to [three js docs](https://threejs.org/docs/)  
+### Installation
+
+React App [Install](https://create-react-app.dev/docs/getting-started/) 
+
+Install the dependencies and devDependencies and start the server.
+
+```sh
+$ npx create-react-app ProjectName
+$ yarn add three react-three-fiber react-spring sass drei use-canon
+$ yarn start
+```
 ### React Basics :
 > - State : The state object is where you store property values that belongs to the component. When the state object changes, the component re-renders.
 >- Hooks : It allows you to use state and other React features without writing a class. Hooks are the functions which "hook into" React state and lifecycle features from function components.
@@ -22,14 +33,4 @@ For more info refer to [three js docs](https://threejs.org/docs/)
 Bullet is a physics engine which simulates collision detection, soft and rigid body dynamics
  'ammo' stands for "Avoided Making My Own js physics engine by compiling bullet from C++"
 
-### Installation
 
-React App [Install](https://create-react-app.dev/docs/getting-started/) 
-
-Install the dependencies and devDependencies and start the server.
-
-```sh
-$ npx create-react-app ProjectName
-$ yarn add three react-three-fiber react-spring sass drei use-canon
-$ yarn start
-```
