@@ -1,6 +1,7 @@
 # Documentation for Webinar Part - I
 
-## You can either create your own new react app or clone already built app and do changes
+- You can either create your own new react app or clone already built app and do changes
+- For Both Option Instructions have been mentioned
 
 ### Installation of React App
 
@@ -25,7 +26,9 @@ $ yarn start
 Paste the link in place of the placeholder (workshop-repo-link)
 
 ## Concepts 
-For more info refer to [three js docs](https://threejs.org/docs/)
+- Below here is are topics that are going to be discussed in the webinar
+- Keep refering to the [Three Js documentation] (https://threejs.org/docs/)
+- For React or JSX , refer to [React Docs] (https://reactjs.org/docs/getting-started.html)
 
 ### React Basics :
 
@@ -59,24 +62,25 @@ An efficient way to present lines, mesh, position, face vertex within buffer. It
 #### Material
 
 Appearance of Object, it is renderer independent.
+Types of Material Available in Three Js and React Three Fiber
 
-> MeshBasicMaterial
-> MeshStandardMaterial
-> MeshDepthMaterial
-> MeshDistanceMaterial
-> MeshLambertMaterial
-> MeshMatcapMaterial
-> MeshNormalMaterial
-> MeshPhongMaterial
-> MeshPhysicalMaterial
-> MeshToonMaterial
-> LineBasicMaterial
-> LineDashedMaterial
-> PointsMaterial
-> RawShaderMaterial
-> ShaderMaterial
-> ShadowMaterial
-> SpriteMaterial
+-> MeshBasicMaterial
+-> MeshStandardMaterial
+-> MeshDepthMaterial
+-> MeshDistanceMaterial
+-> MeshLambertMaterial
+-> MeshMatcapMaterial
+-> MeshNormalMaterial
+-> MeshPhongMaterial
+-> MeshPhysicalMaterial
+-> MeshToonMaterial
+-> LineBasicMaterial
+-> LineDashedMaterial
+-> PointsMaterial
+-> RawShaderMaterial
+-> ShaderMaterial
+-> ShadowMaterial
+-> SpriteMaterial
 
 #### useFrame() ( In react three fiber docs useRender)
 
@@ -100,17 +104,18 @@ mesh is an reference variable here, not the mesh as mentioned above
 
 #### Shadow
 
-- castShadow
-- recieveShadow
-- MapShadow
+- castShadow : This property castshadow on a surface, this property is for mesh, directional light and point light
+- recieveShadow : This property makes an object/ mesh recieve shadow, available for mesh 
+- MapShadow : Every light that casts shadows all objects marked to cast shadows are rendered from the point of view of the light.
 
-  > shadow-mapSize-width={1024}
-  > shadow-mapSize-height={1024}
-  > shadow-camera-far={50}
-  > shadow-camera-left={-10}
-  > shadow-camera-right={10}
-  > shadow-camera-top={10}
-  > shadow-camera-bottom={-10}
+Now from Lights point of view we need to specify some properties of [Shadow Map](https://threejsfundamentals.org/threejs/lessons/threejs-shadows.html) 
+  -> shadow-mapSize-width={1024}
+  -> shadow-mapSize-height={1024}
+  -> shadow-camera-far={50}
+  -> shadow-camera-left={-10}
+  -> shadow-camera-right={10}
+  -> shadow-camera-top={10}
+  -> shadow-camera-bottom={-10}
 
 #### Drei
 
