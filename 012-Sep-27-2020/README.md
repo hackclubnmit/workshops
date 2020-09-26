@@ -76,6 +76,9 @@ glTF (GL Transmission Format) is an open format specification for efficient deli
 ### OrbitControls
 Orbit controls allow the camera to orbit around a target.
 
+### Food for Thoughts
+[Article](https://www.digitalocean.com/community/tutorials/react-react-with-threejs)
+
 
 ### Plugins and Links
 
