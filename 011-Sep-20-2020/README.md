@@ -13,8 +13,9 @@ $ npx create-react-app ProjectName
 $ yarn add three react-three-fiber react-spring sass drei use-cannon
 $ yarn start
 ```
+### OR
 
-### To Start the App
+### To Clone and Start the App
 
 ```sh
 $ git clone worshop-repo-link
