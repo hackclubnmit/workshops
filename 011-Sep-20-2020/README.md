@@ -126,9 +126,10 @@ Now from Lights point of view we need to specify some properties of [Shadow Map]
 ### For Next Session
 [Game](https://2yqpv.csb.app/)
 
+### Food for Thoughts
+[Article](https://www.digitalocean.com/community/tutorials/react-react-with-threejs)
 
-
-### Plugins
+### Plugins and Links
 
 | Packages          | README                                            |
 | ----------------- | ------------------------------------------------- |
