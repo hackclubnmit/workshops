@@ -64,23 +64,23 @@ An efficient way to present lines, mesh, position, face vertex within buffer. It
 Appearance of Object, it is renderer independent.
 Types of Material Available in Three Js and React Three Fiber
 
--> MeshBasicMaterial
--> MeshStandardMaterial
--> MeshDepthMaterial
--> MeshDistanceMaterial
--> MeshLambertMaterial
--> MeshMatcapMaterial
--> MeshNormalMaterial
--> MeshPhongMaterial
--> MeshPhysicalMaterial
--> MeshToonMaterial
--> LineBasicMaterial
--> LineDashedMaterial
--> PointsMaterial
--> RawShaderMaterial
--> ShaderMaterial
--> ShadowMaterial
--> SpriteMaterial
+>- MeshBasicMaterial
+>- MeshStandardMaterial
+>- MeshDepthMaterial
+>- MeshDistanceMaterial
+>- MeshLambertMaterial
+>- MeshMatcapMaterial
+>- MeshNormalMaterial
+>- MeshPhongMaterial
+>- MeshPhysicalMaterial
+>- MeshToonMaterial
+>- LineBasicMaterial
+>- LineDashedMaterial
+>- PointsMaterial
+>- RawShaderMaterial
+>- ShaderMaterial
+>- ShadowMaterial
+>- SpriteMaterial
 
 #### useFrame() ( In react three fiber docs useRender)
 
@@ -109,13 +109,13 @@ mesh is an reference variable here, not the mesh as mentioned above
 - MapShadow : Every light that casts shadows all objects marked to cast shadows are rendered from the point of view of the light.
 
 Now from Lights point of view we need to specify some properties of [Shadow Map](https://threejsfundamentals.org/threejs/lessons/threejs-shadows.html) 
-  -> shadow-mapSize-width={1024}
-  -> shadow-mapSize-height={1024}
-  -> shadow-camera-far={50}
-  -> shadow-camera-left={-10}
-  -> shadow-camera-right={10}
-  -> shadow-camera-top={10}
-  -> shadow-camera-bottom={-10}
+  >- shadow-mapSize-width={1024}
+  >- shadow-mapSize-height={1024}
+  >- shadow-camera-far={50}
+  >- shadow-camera-left={-10}
+  >- shadow-camera-right={10}
+  >- shadow-camera-top={10}
+  >- shadow-camera-bottom={-10}
 
 #### Drei
 
