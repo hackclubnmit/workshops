@@ -6,7 +6,7 @@
 - Compiles to plain JavaScript
 - Easily integrated into JavaScript projects
 - Designed for larger applications
-- 
+
 ### What Does TypeScript Offer?
 
 - Static Type Checking
