@@ -1,0 +1,24 @@
+{
+  "name": "013-Nov-07-2020",
+  "version": "1.0.0",
+  "description": "TypeScript is a Superset of JavaScript developed by Microsoft.TypeScript is a language that is a superset of JavaScript: JS syntax is therefore legal TS. Syntax refers to the way we write text to form a program. For example, this code has a syntax error because it’s missing a ):\r ```$\r let a = (4\r //')' expected.\r ```\r   TypeScript doesn’t consider any JavaScript code to be an error because of its syntax. This means you can take any working JavaScript code and put it in a TypeScript file without worrying about exactly how it is written. It compiles to plain JavaScript. TypeScript can be easily integrated into JavaScript projects.These are designed for larger applications.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node dist/app.js",
+    "dev":"nodemon src/app.ts",
+    "build":"tsc -p ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.8",
+    "@types/node": "^14.14.6",
+    "nodemon": "^2.0.6",
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.5"
+  }
+}
